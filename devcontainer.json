@@ -1,0 +1,13 @@
+{
+  "customizations": {
+    "codespaces": {
+      "repositories": {
+        "fabian-bouche-liferay/react-remote-sample": {
+          "permissions": {
+            "issues": "write"
+          }
+        }
+      }
+    }
+  }
+}
